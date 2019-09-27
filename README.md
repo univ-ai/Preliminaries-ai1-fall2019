@@ -1,4 +1,7 @@
 # Preliminaries-ai1-fall2019
+
+HELLO WORLD!!!!!
+
 Git and Baby Python Preliminaries for Ai1, Fall 2019
 
 1. Students should install [Anaconda Python 3.7 version](https://www.anaconda.com/distribution/#download-section)
